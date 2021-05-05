@@ -1,0 +1,23 @@
+Note: I'm still trying to figure out if I should take the interpretation or prediction route...but I'm thinking interpretation
+
+Goal/question:
+- The goal is to identify the features of Science Fiction movies that maximize revenue 
+OR if I take the prediction route...the goal would be to predict profitability for an upcoming film
+- In this scenario, a film production company that intends to produce a new Sci-Fi would benefit from
+understanding how to make a film that brings in the highest profits (or from being able to understand how to budget based
+on expected profits)
+
+Data description:
+- I plan to scrape data from box office mojo and imdb (I'm open to other reliable, web-scrapeable sites)
+- I expect to work with the following features: revenue, director, actors, length of film, rating, writer, budget,
+type of distribution, ... I need a couple more 
+
+
+Tools: 
+- I intend to use pandas, SQL, selenium, beautifulsoup, plotly (maybe seaborn?)
+
+MVP Goal:
+- To be honest, I'm not sure what the MVP would be. I don't see there being any final product that could suffice that
+doesn't perform the overall task. 
+
+
